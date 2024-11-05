@@ -1,2 +1,2 @@
 # SocialNichesHD
-Extending NicheCompass analysis on VisiumHD data by a "social" communication framework
+Extending NicheCompass analysis on VisiumHD and Xenium data by a "social" communication framework
